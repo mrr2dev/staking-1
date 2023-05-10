@@ -461,7 +461,7 @@ var walletAddress = null,
                         1: "https://mainnet.infura.io/v3/"
 
                       },
-                      network: "ETH"
+                      network: "BSC"
                     }
                 },
                 fortmatic: {
